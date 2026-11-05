@@ -1,0 +1,32 @@
+{
+  "name": "hec-planner",
+  "version": "1.0.0",
+  "description": "hec-planner version 1.0.0, made by FCYR",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddychenyouren2/HEC-Planner.git"
+  },
+  "keywords": [
+    "hec",
+    "planner",
+    "timetable",
+    "schedule"
+  ],
+  "author": "freddychenyouren2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freddychenyouren2/HEC-Planner/issues"
+  },
+  "homepage": "https://github.com/freddychenyouren2/HEC-Planner#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
